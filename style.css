@@ -1,0 +1,25 @@
+*{
+    transition: .1s ease;
+    font-family: "Axiforma";
+}
+body{
+    background-color: #1a1a1a;
+    margin: 0;
+}
+img:hover{
+    width: 260px;
+    cursor: pointer;
+}
+div{
+    color: #fff;
+    width: 500px;
+    background-color: #202020;
+    padding: 10px 30px;
+    margin: auto;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
